@@ -7,4 +7,7 @@
 <script src="{{ asset('assets/plugins/raphael/raphael.min.js') }}"></script>
 <script src="{{ asset('assets/js/script.js') }}"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/4.17.47/js/bootstrap-datetimepicker.min.js"></script>
+<script src="https://cdn.datatables.net/2.3.0/js/dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/2.3.0/js/dataTables.bootstrap5.min.js"></script>
+
 {{-- <script src="{{ asset('assets/js/bootstrap-datetimepicker.min.js') }}"></script> --}}
